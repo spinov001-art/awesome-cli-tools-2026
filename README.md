@@ -125,6 +125,7 @@ A curated list of modern command-line tools that make developers more productive
 |------|-------------|----------|
 | [claude-code](https://docs.anthropic.com/en/docs/claude-code) | AI coding agent in your terminal | TypeScript |
 | [aider](https://github.com/paul-gauthier/aider) | AI pair programming in terminal | Python |
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | Inspect AI coding agent session history, costs, latency, and slow-run diagnostics | Go |
 | [llm](https://github.com/simonw/llm) | Access LLMs from command line | Python |
 | [fabric](https://github.com/danielmiessler/fabric) | AI-augmented CLI for prompts and patterns | Go |
 
@@ -203,4 +204,3 @@ I build **production-ready scrapers, APIs, and automation tools** for businesses
 📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your data challenge, get a free estimate within 2 hours.
 
 🔧 **[Browse 78+ ready-made scrapers on Apify →](https://apify.com/knotless_cadence)** — Reddit, Google, Amazon, HN and more. Deploy in 1 click.
-
