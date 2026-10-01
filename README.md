@@ -127,6 +127,7 @@ A curated list of modern command-line tools that make developers more productive
 | [aider](https://github.com/paul-gauthier/aider) | AI pair programming in terminal | Python |
 | [llm](https://github.com/simonw/llm) | Access LLMs from command line | Python |
 | [fabric](https://github.com/danielmiessler/fabric) | AI-augmented CLI for prompts and patterns | Go |
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | Developer-alpha CLI for encrypted, append-only knowledge and MCP access through scoped, expiring grants | Rust |
 
 ## DevOps & Containers
 
