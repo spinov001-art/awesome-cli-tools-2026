@@ -136,6 +136,7 @@ A curated list of modern command-line tools that make developers more productive
 | [k9s](https://github.com/derailed/k9s) | Kubernetes CLI dashboard | Go |
 | [dive](https://github.com/wagoodman/dive) | Explore Docker image layers | Go |
 | [ctop](https://github.com/bcicen/ctop) | Top-like interface for containers | Go |
+| [flisk](https://github.com/flisk-sh/flisk) | Run every part of your app (API, website, workers, AI agents, database) on your computer with one command, Docker optional | TypeScript |
 
 ## Python CLI Utilities
 
